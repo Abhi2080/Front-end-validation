@@ -1,0 +1,20 @@
+small{
+    visibility: hidden;
+}
+
+
+.fail2{
+    visibility: visible;
+    color: red;
+}
+
+
+.success{
+    border-width: 2px;
+    border-color: green;
+}
+
+.fail{
+    border-width: 2px;
+    border-color: red;
+}
